@@ -1,5 +1,5 @@
 # OhtemisOS_VersionData
 <html><body>
-Latest:Ver.0
-EmergencyList
+OhtemisOS_VersionData|Latest:Ver.0
+OhtemisOS_VersionData|EmergencyList:
 <\body><\html>
